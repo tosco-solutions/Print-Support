@@ -29,10 +29,8 @@
 
 
 # Input and output file paths
-#$csvFilePath = "C:\path\to\data.csv"
-#$xmlFilePath = "C:\path\to\output.xml"
-$csvFilePath = "C:\Users\pauld\Downloads\sample_addresses.csv"
-$xmlFilePath = "C:\Users\pauld\Downloads\output.xml"
+$csvFilePath = "C:\path\to\data.csv"
+$xmlFilePath = "C:\path\to\output.xml"
 $brotherModel = "MFC-L6700DW series"
 
 # Add XML header
